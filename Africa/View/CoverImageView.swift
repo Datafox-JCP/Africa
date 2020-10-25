@@ -25,7 +25,7 @@ struct CoverImageView: View {
 }
 
 
-    // MARK: - PREVIEW
+// MARK: - PREVIEW
 struct CoverImageView_Previews: PreviewProvider {
     static var previews: some View {
         CoverImageView()
