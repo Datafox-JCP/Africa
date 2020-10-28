@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		C6385D7D25485BC500BFEA1F /* MappAnnotationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6385D7C25485BC500BFEA1F /* MappAnnotationView.swift */; };
+		C6674DFD25492DA400F90767 /* MotionAnimationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6674DFC25492DA400F90767 /* MotionAnimationView.swift */; };
 		C698D9802543B2ED006F881E /* AnimalModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = C698D97F2543B2ED006F881E /* AnimalModel.swift */; };
 		C698D9832543B8D8006F881E /* AnimalDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C698D9822543B8D8006F881E /* AnimalDetailView.swift */; };
 		C698D9862543EA09006F881E /* HeadingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C698D9852543EA09006F881E /* HeadingView.swift */; };
@@ -48,6 +50,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		C6385D7C25485BC500BFEA1F /* MappAnnotationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MappAnnotationView.swift; sourceTree = "<group>"; };
+		C6674DFC25492DA400F90767 /* MotionAnimationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MotionAnimationView.swift; sourceTree = "<group>"; };
 		C698D97F2543B2ED006F881E /* AnimalModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimalModel.swift; sourceTree = "<group>"; };
 		C698D9822543B8D8006F881E /* AnimalDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimalDetailView.swift; sourceTree = "<group>"; };
 		C698D9852543EA09006F881E /* HeadingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeadingView.swift; sourceTree = "<group>"; };
@@ -133,6 +137,8 @@
 				C698D991254460C2006F881E /* ExternalLinkView.swift */,
 				C698D9972544F2C7006F881E /* VideoListItemView.swift */,
 				C6D7F9E42545B06300C7E8E2 /* VideoPlayerView.swift */,
+				C6385D7C25485BC500BFEA1F /* MappAnnotationView.swift */,
+				C6674DFC25492DA400F90767 /* MotionAnimationView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -318,6 +324,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C6385D7D25485BC500BFEA1F /* MappAnnotationView.swift in Sources */,
 				C6D5287825470A1400A3A1E3 /* LocationModel.swift in Sources */,
 				C6DAF7492541BC1F00E95827 /* ContentView.swift in Sources */,
 				C6A95D6E25430FCA00C4EBB7 /* AnimalListItemView.swift in Sources */,
@@ -338,6 +345,7 @@
 				C698D9892543EC67006F881E /* InsetGalleryView.swift in Sources */,
 				C698D9982544F2C7006F881E /* VideoListItemView.swift in Sources */,
 				C6A0E4A825430836004BBD0B /* CodableBundleExtension.swift in Sources */,
+				C6674DFD25492DA400F90767 /* MotionAnimationView.swift in Sources */,
 				C698D9862543EA09006F881E /* HeadingView.swift in Sources */,
 				C6D7F9E52545B06300C7E8E2 /* VideoPlayerView.swift in Sources */,
 			);
